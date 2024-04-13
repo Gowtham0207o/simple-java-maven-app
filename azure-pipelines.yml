@@ -1,6 +1,5 @@
 
-pool:
-  vmImage: Devopslab
+pool: gowtham
 
 steps:
 - script: echo Hello, world!
